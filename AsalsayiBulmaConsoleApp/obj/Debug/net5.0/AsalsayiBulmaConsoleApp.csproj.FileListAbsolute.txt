@@ -1,0 +1,16 @@
+C:\Users\K.Yasin\source\repos\AsalsayiBulmaConsoleApp\AsalsayiBulmaConsoleApp\obj\Debug\net5.0\AsalsayiBulmaConsoleApp.csproj.AssemblyReference.cache
+C:\Users\K.Yasin\source\repos\AsalsayiBulmaConsoleApp\AsalsayiBulmaConsoleApp\obj\Debug\net5.0\AsalsayiBulmaConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K.Yasin\source\repos\AsalsayiBulmaConsoleApp\AsalsayiBulmaConsoleApp\obj\Debug\net5.0\AsalsayiBulmaConsoleApp.AssemblyInfoInputs.cache
+C:\Users\K.Yasin\source\repos\AsalsayiBulmaConsoleApp\AsalsayiBulmaConsoleApp\obj\Debug\net5.0\AsalsayiBulmaConsoleApp.AssemblyInfo.cs
+C:\Users\K.Yasin\source\repos\AsalsayiBulmaConsoleApp\AsalsayiBulmaConsoleApp\obj\Debug\net5.0\AsalsayiBulmaConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\K.Yasin\source\repos\AsalsayiBulmaConsoleApp\AsalsayiBulmaConsoleApp\bin\Debug\net5.0\AsalsayiBulmaConsoleApp.exe
+C:\Users\K.Yasin\source\repos\AsalsayiBulmaConsoleApp\AsalsayiBulmaConsoleApp\bin\Debug\net5.0\AsalsayiBulmaConsoleApp.deps.json
+C:\Users\K.Yasin\source\repos\AsalsayiBulmaConsoleApp\AsalsayiBulmaConsoleApp\bin\Debug\net5.0\AsalsayiBulmaConsoleApp.runtimeconfig.json
+C:\Users\K.Yasin\source\repos\AsalsayiBulmaConsoleApp\AsalsayiBulmaConsoleApp\bin\Debug\net5.0\AsalsayiBulmaConsoleApp.runtimeconfig.dev.json
+C:\Users\K.Yasin\source\repos\AsalsayiBulmaConsoleApp\AsalsayiBulmaConsoleApp\bin\Debug\net5.0\AsalsayiBulmaConsoleApp.dll
+C:\Users\K.Yasin\source\repos\AsalsayiBulmaConsoleApp\AsalsayiBulmaConsoleApp\bin\Debug\net5.0\ref\AsalsayiBulmaConsoleApp.dll
+C:\Users\K.Yasin\source\repos\AsalsayiBulmaConsoleApp\AsalsayiBulmaConsoleApp\bin\Debug\net5.0\AsalsayiBulmaConsoleApp.pdb
+C:\Users\K.Yasin\source\repos\AsalsayiBulmaConsoleApp\AsalsayiBulmaConsoleApp\obj\Debug\net5.0\AsalsayiBulmaConsoleApp.dll
+C:\Users\K.Yasin\source\repos\AsalsayiBulmaConsoleApp\AsalsayiBulmaConsoleApp\obj\Debug\net5.0\ref\AsalsayiBulmaConsoleApp.dll
+C:\Users\K.Yasin\source\repos\AsalsayiBulmaConsoleApp\AsalsayiBulmaConsoleApp\obj\Debug\net5.0\AsalsayiBulmaConsoleApp.pdb
+C:\Users\K.Yasin\source\repos\AsalsayiBulmaConsoleApp\AsalsayiBulmaConsoleApp\obj\Debug\net5.0\AsalsayiBulmaConsoleApp.genruntimeconfig.cache
